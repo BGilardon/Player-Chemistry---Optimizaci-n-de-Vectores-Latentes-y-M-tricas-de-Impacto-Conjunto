@@ -4,5 +4,4 @@ Yo armaría un análisis exploratorio/gráficos muy general de entender la data 
 
 - Gráfico de redes de pases de algunos equipos (entender conexiones "típicas") // Matriz de pases (si alguna de estas cosas no te suena avisame y las vemos aunque googleando te salen fácil)
 
-- Entender combinación de eventos que vamos a considerar para el modelo tipo JOI.
-Anda pensando un poco en ese sentido el análisis. Es decir preguntas a responder de la data que ayudan a modelar el VAEP y después el JOI
+- Entender combinación de eventos que vamos a considerar para el modelo tipo JOI. Es decir preguntas a responder de la data que ayudan a modelar el VAEP y después el JOI
